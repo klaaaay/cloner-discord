@@ -1,0 +1,7 @@
+﻿Klaaay Is Here
+python 3.6
+https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
+
+How To Clone A server?
+First, you need to get your account token
+Second, the server IDs
